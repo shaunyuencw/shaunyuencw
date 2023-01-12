@@ -55,7 +55,7 @@
 <table border="0" align="center">
     <tr border="0">
         <td width="50%" align="center">
-            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=shaunyuencw&theme=tokyonight&show_icons=true&count_private=true" />
+            <img  align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaunyuencw&&show_icons=true&theme=tokyonight" />
             </br></br>
             <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunyuencw&theme=dark&hide_border=true" />
         </td>
