@@ -57,7 +57,7 @@
         <td width="50%" align="center">
             <img  align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaunyuencw&&show_icons=true&theme=tokyonight" />
             </br></br>
-            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunyuencw&theme=dark&hide_border=true" />
+            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunyuencw&theme=highcontrast&hide_border=true&mode=weekly" />
         </td>
         <td width="50%" align="center">
             <img align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=shaunyuencw&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook"/>
