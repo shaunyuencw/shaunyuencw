@@ -46,6 +46,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/MySQL-d88600?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/MSSQL-a91d22?style=for-the-badge&logo=mssql&logoColor=white" alt="MSSQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-429543?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo"/>
     <img src="https://img.shields.io/badge/Firebase-e97b0a?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
     <img src="https://img.shields.io/badge/Redis-9e2321?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
