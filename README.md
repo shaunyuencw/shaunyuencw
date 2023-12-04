@@ -37,18 +37,25 @@
     <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
     <img src="https://img.shields.io/badge/Tensorflow-e65b29?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"/>
     <img src="https://img.shields.io/badge/React-0f85e3?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-    <img src="https://img.shields.io/badge/Express-dd2326?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/Flutter-075b9d?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
 <h2 align="center" style="padding-bottom: 10px;"><b>Databases</b></h2>
 <p align="center">
     <img src="https://img.shields.io/badge/MySQL-d88600?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGres"/>
     <img src="https://img.shields.io/badge/MSSQL-a91d22?style=for-the-badge&logo=mssql&logoColor=white" alt="MSSQL"/>
     <img src="https://img.shields.io/badge/MongoDB-429543?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo"/>
     <img src="https://img.shields.io/badge/Firebase-e97b0a?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/Redis-9e2321?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+<h2 align="center" style="padding-bottom: 10px;"><b>Others</b></h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi"/>
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
 </p>
 
 <hr>
@@ -71,4 +78,4 @@
 
 Made by: [Shaun Yuen](https://github.com/shaunyuencw)
 
-Last Edited on: 07/01/2023
+Last Edited on: 4/12/2023
